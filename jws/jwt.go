@@ -4,9 +4,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/SermoDigital/jose"
-	"github.com/SermoDigital/jose/crypto"
-	"github.com/SermoDigital/jose/jwt"
+	"github.com/ogaravito-yofio/jose"
+	"github.com/ogaravito-yofio/jose/crypto"
+	"github.com/ogaravito-yofio/jose/jwt"
 )
 
 // NewJWT creates a new JWT with the given claims.
